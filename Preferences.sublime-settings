@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/Phix Color Scheme/Phix Dark.tmTheme",
+	"font_size": 10,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"AppleScript"
+	],
+	"rulers":
+	[
+		120
+	],
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
